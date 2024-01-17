@@ -25,4 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xpshycho&show_icons=true&locale=en" alt="xpshycho" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xpshycho&" alt="xpshycho" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/xPshycho=DenverCoder1)](https://git.io/streak-stats)
+
