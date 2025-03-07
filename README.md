@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edwin%20Balbuena-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/edwinbalbuena) 
 [![Instagram](https://img.shields.io/badge/Instagram-balbuena.edwinn-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/balbuena.edwinn) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-xpshycho-orange?style=for-the-badge&logo=leetcode)](https://www.leetcode.com/xpshycho)
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-xpshycho-green?style=for-the-badge&logo=hackthebox)](https://www.hackthebox.com/home/users/profile/xPshycho)
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-xPshycho-green?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/users/2277620)
 
 ---
 
