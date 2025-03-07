@@ -1,29 +1,49 @@
-<h1 align="center">Hi 👋, I'm Edwin Balbuena</h1>
-<h3 align="center">A passionate computer science student from Dominican Republic</h3>
+## 👋 Hi, I'm Edwin Balbuena!
+### 🚀 Passionate Computer Science Student | Tech Enthusiast | Developer  
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xpshycho&label=Profile%20views&color=0e75b6&style=flat" alt="xpshycho" /> </p>
 
-- 🌱 I’m currently learning **Azure, Python, Data**
+🔹 Currently learning **Cybersecurity, Networks, and Data Science**  
+🔹 Looking to collaborate on **exciting projects**  
+🔹 Reach me at **[edwinbalbuena189@gmail.com](mailto:edwinbalbuena189@gmail.com)**  
+🔹 Fun fact: **I play some music 🎸**  
 
-- 👯 I’m looking to collaborate on **projects**
+---
 
-- 📫 How to reach me **edwinbalbuena189@gmail.com**
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edwin%20Balbuena-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/edwinbalbuena) 
+[![Instagram](https://img.shields.io/badge/Instagram-balbuena.edwinn-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/balbuena.edwinn) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-xpshycho-orange?style=for-the-badge&logo=leetcode)](https://www.leetcode.com/xpshycho)
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-xpshycho-green?style=for-the-badge&logo=hackthebox)](https://www.hackthebox.com/home/users/profile/xPshycho)
 
-- ⚡ Fun fact **I play some music**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/edwinbalbuena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwinbalbuena" height="30" width="40" /></a>
-<a href="https://instagram.com/balbuena.edwinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="balbuena.edwinn" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/xpshycho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xpshycho" height="30" width="40" /></a>
-</p>
+### 🛠️ Languages & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xpshycho&show_icons=true&locale=en&layout=compact" alt="xpshycho" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xpshycho&show_icons=true&locale=en" alt="xpshycho" /></p>
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpshycho&layout=compact&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=xpshycho&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xpshycho&theme=tokyonight" />
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/xPshycho=DenverCoder1)](https://git.io/streak-stats)
+---
 
+✨ _Let's build something amazing together!_ 🚀
