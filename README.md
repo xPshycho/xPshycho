@@ -39,7 +39,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpshycho&layout=compact&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=xpshycho&show_icons=true&theme=tokyonight" />
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xpshycho&theme=tokyonight" />
 </div>
